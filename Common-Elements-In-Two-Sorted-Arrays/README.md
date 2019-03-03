@@ -8,7 +8,7 @@
 
 ## Solution
 
-I've written an implementation that determines the solution in linear time complexity (`O(n)`).
+I've written an implementation that determines the solution in `O(max(n * m))` time complexity, where `n` is the number of elements in array 1, and `m` is the number of elements in array 2.
 
 Languages Implemented:
 
