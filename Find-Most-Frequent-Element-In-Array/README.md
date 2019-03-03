@@ -10,9 +10,9 @@
 
 ## Solution
 
-I've written a implementation that determines the solution in linear time complexity (`O(n)`).
+I've written an implementation that determines the solution in linear time complexity (`O(n)`).
 
-Languages Implemented :
+Languages Implemented:
 
 - [JavaScript](./solution.js)
 - [Python](solution.py)

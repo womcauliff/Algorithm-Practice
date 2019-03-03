@@ -7,3 +7,5 @@ Practice problems that challenge me to think carefully about algorithms and data
 The following problems are introduced in the Udemy course by CS Dojo, "11 Essential Coding Interview Questions."
 
 - [Find the most frequent element in an array](./Find-Most-Frequent-Element-In-Array/README.md)
+
+- [Find the common elements in two sorted arrays](./Common-Elements-In-Two-Sorted-Arrays/README.md)
