@@ -13,3 +13,5 @@ I've written an implementation that determines the solution in linear time compl
 Languages Implemented:
 
 - [JavaScript](./solution.js)
+- [Python](./solution.py)
+- [Java](./solution.java)
