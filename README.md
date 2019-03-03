@@ -9,3 +9,5 @@ The following problems are introduced in the Udemy course by CS Dojo, "11 Essent
 - [Find the most frequent element in an array](./Find-Most-Frequent-Element-In-Array/README.md)
 
 - [Find the common elements in two sorted arrays](./Common-Elements-In-Two-Sorted-Arrays/README.md)
+
+- [Is one array a rotation of another?](./Is-One-Array-a-Rotation-of-Another/README.md)
