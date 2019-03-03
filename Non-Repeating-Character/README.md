@@ -15,3 +15,7 @@
 I've written an implementation that determines the solution in `O(n)` time complexity, where `n` is the number of characters in the given string.
 
 - [JavaScript](./solution.js)
+
+  - [JS Test File](./checkSolution.test.js)
+
+- [Python](./solution.py)

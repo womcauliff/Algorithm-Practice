@@ -10,6 +10,8 @@ def non_repeating(given_string):
 
     # Sweep through string again, and return the first character
     # that has a total frequency of 1
+    # This will be 2 * n comparisons in worst case, which is still
+    # equivalent to O(n)
     for char in given_string:
         if (charFreq.get(char) == 1):
             return char
