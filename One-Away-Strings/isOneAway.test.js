@@ -1,4 +1,4 @@
-import isOneAway from "./solution";
+import { isOneAway } from "./solution";
 
 test(`Checks "abcde", "abcd" should return true`, () => {
   expect(isOneAway("abcde", "abcd")).toBe(true);
