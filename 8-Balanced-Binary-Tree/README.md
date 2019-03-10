@@ -1,4 +1,4 @@
-# 6. Balanced Binary Tree
+# 8. Balanced Binary Tree
 
 ## Problem Description
 
