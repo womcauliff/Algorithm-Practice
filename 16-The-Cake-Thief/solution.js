@@ -1,7 +1,7 @@
 /**
  * Finds the **optimal** maximum British shilling value of cakes that a duffelbag can carry, in `O(n * k)`
  * time, where `n` is the number of cakes, and `k` is the duffelbag's weight capacity.
- * Note: a "greedy algorithm" is not optimal. -- why?
+ * Side Note: a "greedy algorithm" would not be guaranteed to produce optimal solution. -- why?
  * Because the greedy algorithm might have us put a few extremely HEAVY things that happen to have highest value,
  * and the optimal solution would be to fill bag with a huge amount of LIGHT objects with very high value.
  *
@@ -20,7 +20,7 @@ function maxDuffelBagValue(cakeTypes, weightCapacity) {
   // for particular duffelbag weight capacities. Each index represents a weight capacity.
   // We start at zero weight and go up to the actual weight capacity of the bag.
   // Note: this data structure helps us avoid the overlapping sub-problems issue,
-  // a type of inefficienty in which a calculation involves repeatedly solving subproblem(s) multiple times.
+  // a type of inefficiency in which a calculation involves repeatedly solving subproblem(s) multiple times.
   let maxValuesAtCapacities = new Array(weightCapacity + 1).fill(0);
 
   // Loop through one duffelbag weight capacity at a time,
