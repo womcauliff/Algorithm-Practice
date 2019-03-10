@@ -5,7 +5,13 @@
  * (null if array is empty)
  */
 function mostFrequent(givenArray) {
-  const seen = [];
+  // This datastructure maps each element in the given array to its total frequency.
+  // (`seen` is an object, rather than an array,
+  // in order to account for negative integer elements).
+  const seen = {};
+
+  // These variables allow us track the result to return.
+  // We avoid sweeping through the `seen` hashmap again.
   let mostFreq = null;
   let highestFreqAmount = 0;
 
