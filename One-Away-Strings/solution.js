@@ -79,7 +79,7 @@ export function isNAway(str1, str2, maxDiff) {
     return isNDeletionsAway(str1, str2);
   } else if (str1.length < str2.length) {
     // This may be an addition operation
-    return isNDeletionsAway(str2, str2, maxDiff);
+    return isNDeletionsAway(str2, str1, maxDiff);
   } else {
     // This may be a modification operation.
     return isNModsAway(str1, str2, maxDiff);
