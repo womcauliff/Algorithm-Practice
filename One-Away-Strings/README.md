@@ -17,6 +17,6 @@ I've written an implementation that determines the solution in `O(n)` time compl
 
 - [JavaScript](./solution.js)
 
-  - [JS Test File](./checkSolution.test.js)
+  - [JS Test File](./isOneAway.test.js)
 
 - [Python](./solution.py)
