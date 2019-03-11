@@ -17,7 +17,7 @@ function commonElements(list1, list2) {
     // and increment both pointers.
     // Else, increment the pointer for the array with the lesser value.
     if (list1[index1] === list2[index2]) {
-      result.push(currentValue);
+      result.push(list1[index1]);
       index1++;
       index2++;
     } else if (list1[index1] < list2[index2]) {
