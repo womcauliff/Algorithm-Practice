@@ -27,3 +27,5 @@ The following problems are introduced in the [Interview Cake full course](https:
 - [16. The Cake Thief](./16-The-Cake-Thief)
 
   A variation of the "Unbounded Knapsack Problem."
+
+- [26. Reverse String in Place](./26-Reverse-String-in-Place)
