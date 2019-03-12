@@ -11,3 +11,4 @@
 My solution relies on an iterative depth-first search approach to reach all leaf nodes, and checks if the leaf nodes' depth values contradict the given definition of a balanced binary tree. The worst case is one in which the algorithm checks all nodes on the tree to verify the the tree **is balanced**. Thus, this solution solves the problem in `O(n)` time, where `n` is the number of nodes in the binary tree.
 
 - [JavaScript](./solution.js)
+  - [JS Test File](./checkSolution.test.js)

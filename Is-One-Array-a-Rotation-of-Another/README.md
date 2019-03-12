@@ -14,4 +14,5 @@ I've written an implementation that determines the solution in `O(n)` time compl
 Languages Implemented:
 
 - [JavaScript](./solution.js)
+  - [JS Test File](./testJSsolution.js)
 - [Python](./solution.py)
