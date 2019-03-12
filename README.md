@@ -20,6 +20,8 @@ The following problems are introduced in the Udemy course by CS Dojo, ["11 Essen
 
 The following problems are introduced in the [Interview Cake full course](https://www.interviewcake.com/) by Cake Labs.
 
+- [4. Merging Meeting Times](./4-Merging-Meeting-Times)
+
 - [8. Balanced Binary Tree](./8-Balanced-Binary-Tree)
 
 - [16. The Cake Thief](./16-The-Cake-Thief)
