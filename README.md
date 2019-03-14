@@ -29,3 +29,5 @@ The following problems are introduced in the [Interview Cake full course](https:
   A variation of the "Unbounded Knapsack Problem."
 
 - [26. Reverse String in Place](./26-Reverse-String-in-Place)
+
+- [27. Reverse Words](./27-Reverse-Words)
