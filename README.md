@@ -31,3 +31,5 @@ The following problems are introduced in the [Interview Cake full course](https:
 - [26. Reverse String in Place](./26-Reverse-String-in-Place)
 
 - [27. Reverse Words](./27-Reverse-Words)
+
+- [43. Merge Sorted Arrays](./43-Merge-Sorted-Arrays)
