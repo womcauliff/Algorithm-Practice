@@ -32,4 +32,6 @@ The following problems are introduced in the [Interview Cake full course](https:
 
 - [27. Reverse Words](./27-Reverse-Words)
 
+- [36. Single Riffle Shuffle](./36-Single-Riffle-Shuffle)
+
 - [43. Merge Sorted Arrays](./43-Merge-Sorted-Arrays)
