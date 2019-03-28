@@ -22,18 +22,18 @@ The following problems are introduced in the Udemy course by CS Dojo, ["11 Essen
 
 The following problems are introduced in the [Interview Cake full course](https://www.interviewcake.com/) by Cake Labs.
 
-- [4. Merging Meeting Times](./4-Merging-Meeting-Times)
+- [4. Merging Meeting Times](./4-Merging-Meeting-Times/README.md)
 
-- [8. Balanced Binary Tree](./8-Balanced-Binary-Tree)
+- [8. Balanced Binary Tree](./8-Balanced-Binary-Tree/README.md)
 
-- [16. The Cake Thief](./16-The-Cake-Thief)
+- [16. The Cake Thief](./16-The-Cake-Thief/README.md)
 
   A variation of the "Unbounded Knapsack Problem."
 
-- [26. Reverse String in Place](./26-Reverse-String-in-Place)
+- [26. Reverse String in Place](./26-Reverse-String-in-Place/README.md)
 
-- [27. Reverse Words](./27-Reverse-Words)
+- [27. Reverse Words](./27-Reverse-Words/README.md)
 
-- [36. Single Riffle Shuffle](./36-Single-Riffle-Shuffle)
+- [36. Single Riffle Shuffle](./36-Single-Riffle-Shuffle/README.md)
 
-- [43. Merge Sorted Arrays](./43-Merge-Sorted-Arrays)
+- [43. Merge Sorted Arrays](./43-Merge-Sorted-Arrays/README.md)
