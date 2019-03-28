@@ -16,6 +16,8 @@ The following problems are introduced in the Udemy course by CS Dojo, ["11 Essen
 
 - [One Away Strings](./One-Away-Strings/README.md)
 
+- [Assign Numbers in Minesweeper](./Assign-Numbers-In-Minesweeper/README.md)
+
 ## Interview Cake
 
 The following problems are introduced in the [Interview Cake full course](https://www.interviewcake.com/) by Cake Labs.
