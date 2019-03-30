@@ -21,3 +21,7 @@
 - [JavaScript](./solution.js)
 
   - [JS Test File](./checkSolution.test.js)
+
+- [Python](./solution.py)
+
+  - [Python Test File](./checkSolution.py)
