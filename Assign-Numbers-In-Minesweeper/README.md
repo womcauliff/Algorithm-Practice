@@ -18,6 +18,8 @@
 
 ## Solution
 
+My implementation will return the solution with a time complexity of `O(max(num_rows * num_cols, num_bombs))`.
+
 - [JavaScript](./solution.js)
 
   - [JS Test File](./checkSolution.test.js)
