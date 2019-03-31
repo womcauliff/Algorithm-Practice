@@ -18,6 +18,8 @@ The following problems are introduced in the Udemy course by CS Dojo, ["11 Essen
 
 - [Assign Numbers in Minesweeper](./Assign-Numbers-In-Minesweeper/README.md)
 
+- [Find Where to Expand in Minesweeper](./Find-Where-to-Expand-in-Minesweeper/README.md)
+
 ## Interview Cake
 
 The following problems are introduced in the [Interview Cake full course](https://www.interviewcake.com/) by Cake Labs.
