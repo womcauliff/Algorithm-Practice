@@ -20,6 +20,8 @@ The following problems are introduced in the Udemy course by CS Dojo, ["11 Essen
 
 - [Find Where to Expand in Minesweeper](./Find-Where-to-Expand-in-Minesweeper/README.md)
 
+- [Rotating a 2D Array by 90 Degrees (In Place)](./Rotating-2D-Array-In-Place/README.md)
+
 ## Interview Cake
 
 The following problems are introduced in the [Interview Cake full course](https://www.interviewcake.com/) by Cake Labs.
