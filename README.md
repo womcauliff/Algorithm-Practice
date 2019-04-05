@@ -24,6 +24,8 @@ The following problems are introduced in the Udemy course by CS Dojo, ["11 Essen
 
 - [N-th Element of a Linked List](./N-th-Element-of-a-Linked-List/README.md)
 
+- [Is This a Binary Search Tree?](./Is-This-a-Binary-Search-Tree/README.md)
+
 ## Interview Cake
 
 The following problems are introduced in the [Interview Cake full course](https://www.interviewcake.com/) by Cake Labs.
