@@ -9,5 +9,7 @@
 
 My solution returns a result in the worst-case in `O(n)` time, where `n` is the length of the shuffled deck, and `O(1)` space.
 
-- [JavaScript](./solution.js)
+- JavaScript
+  - [Solution](./solution.js)
   - [JS Test File](./checkSolution.test.js)
+  - [CodeSandbox](https://codesandbox.io/s/0owzyvz3vv?autoresize=1&fontsize=14&module=%2Fsolution.js&previewwindow=tests)

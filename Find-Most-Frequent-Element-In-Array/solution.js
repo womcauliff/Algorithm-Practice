@@ -30,20 +30,4 @@ function mostFrequent(givenArray) {
   return mostFreq;
 }
 
-console.assert(
-  mostFrequent([1, 3, 1, 3, 2, 1]) === 1,
-  "mostFrequent(list1) should return 1"
-);
-console.assert(
-  mostFrequent([]) === null,
-  "mostFrequent(list2) should return null"
-);
-console.assert(
-  mostFrequent([3, 3, 1, 3, 2, 1]) === 3,
-  "mostFrequent(list3) should return 3"
-);
-console.assert(mostFrequent([0]) === 0, "mostFrequent(list4) should return 0");
-console.assert(
-  mostFrequent([0, -1, 10, 10, -1, 10, -1, -1, -1, 1]) === -1,
-  "mostFrequent(list5) should return -1"
-);
+export default mostFrequent;

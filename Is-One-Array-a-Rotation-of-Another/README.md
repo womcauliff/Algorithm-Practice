@@ -13,6 +13,8 @@ I've written an implementation that determines the solution in `O(n)` time compl
 
 Languages Implemented:
 
-- [JavaScript](./solution.js)
-  - [JS Test File](./testJSsolution.js)
+- JavaScript
+  - [Solution](./solution.js)
+  - [JS Test File](./checkSolution.test.js)
+  - [CodeSandbox](https://codesandbox.io/s/j7x8vj9479?expanddevtools=1&fontsize=14&previewwindow=tests)
 - [Python](./solution.py)

@@ -18,7 +18,8 @@
 
 My implementation will return the solution with a time complexity of `O(numRows * numCols)`, and because it follows a breadth-first search, the space complexity is `O(n + m)`.
 
-- [JavaScript](./solution.js)
-
+- JavaScript
+  - [Solution](./solution.js)
   - [JS Test 1](./minefield1.test.js)
   - [JS Test 2](./minefield2.test.js)
+  - [CodeSandbox](https://codesandbox.io/s/20mvzq1kvp?autoresize=1&fontsize=14&previewwindow=tests)

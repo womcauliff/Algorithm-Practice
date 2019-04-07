@@ -10,6 +10,7 @@
 
 I've written an implementation that determines the solution in `O(n)` time complexity (worst case).
 
-- [JavaScript](./solution.js)
-
+- JavaScript
+  - [Solution](./solution.js)
   - [JS Test File](./checkSolution.test.js)
+  - [CodeSandbox](https://codesandbox.io/s/mjoprj3809?autoresize=1&fontsize=14&module=%2Fsolution.js&previewwindow=tests./checkSolution.test.js)

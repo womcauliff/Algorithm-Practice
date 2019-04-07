@@ -20,10 +20,9 @@
 
 My implementation will return the solution with a time complexity of `O(max(num_rows * num_cols, num_bombs))`.
 
-- [JavaScript](./solution.js)
-
+- JavaScript
+  - [Solution](./solution.js)
   - [JS Test File](./checkSolution.test.js)
-
+  - [CodeSandbox](https://codesandbox.io/s/1r116z2xmj?autoresize=1&fontsize=14&previewwindow=tests)
 - [Python](./solution.py)
-
   - [Python Test File](./checkSolution.py)

@@ -51,5 +51,7 @@ I've written an implementation that determines the solution in `O(n)` time compl
 
 Languages Implemented:
 
-- [JavaScript Solution](./solution.js)
+- JavaScript
+  - [Solution](./solution.js)
   - [JS Test File](./checkSolution.test.js)
+  - [CodeSandbox](https://codesandbox.io/s/ykpllz6k7x?autoresize=1&fontsize=14&module=%2Fsolution.js&previewwindow=tests)

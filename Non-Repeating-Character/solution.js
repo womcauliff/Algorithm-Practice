@@ -1,3 +1,6 @@
+/**
+ * Returns the first character in a string that does not appear twice or more.
+ */
 function nonRepeating(str) {
   // A hashmap where each character will map to a value representing
   // its frequency in the string.
@@ -6,8 +9,7 @@ function nonRepeating(str) {
 
   // Sweep through the given string **once**,
   // adding each character to the hashmap.
-  Array.prototype.forEach.call(
-    str.split(""),
+  str.split("").forEach(
     // Increment by one if the character was seen previously.
     // A never-before-seen character will start at 1.
     char => (charFreq[char] = charFreq[char] + 1 || 1)

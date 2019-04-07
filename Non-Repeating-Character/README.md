@@ -14,8 +14,8 @@
 
 I've written an implementation that determines the solution in `O(n)` time complexity, where `n` is the number of characters in the given string.
 
-- [JavaScript](./solution.js)
-
+- JavaScript
+  - [Solution](./solution.js)
   - [JS Test File](./checkSolution.test.js)
-
+  - [CodeSandbox](https://codesandbox.io/s/n3vyz98w4p?autoresize=1&fontsize=14&previewwindow=tests)
 - [Python](./solution.py)

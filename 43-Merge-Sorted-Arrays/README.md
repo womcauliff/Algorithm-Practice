@@ -8,7 +8,9 @@
 
 ## Implementation
 
-My solution completes the reversal in `O(n)` time, and `O(n)` space, where `n` represents the total number of elements from both input arrays.
+My solution completes the merge in `O(n)` time, and `O(n)` space, where `n` represents the total number of elements from both input arrays.
 
-- [JavaScript](./solution.js)
+- JavaScript
+  - [Solution](./solution.js)
   - [JS Test File](./checkSolution.test.js)
+  - [CodeSandbox](https://codesandbox.io/s/6vy1xzqlmr?autoresize=1&fontsize=14&module=%2Fsolution.js&previewwindow=tests)

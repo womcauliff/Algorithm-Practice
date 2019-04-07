@@ -14,6 +14,9 @@ I've written an implementation that determines the solution in linear time compl
 
 Languages Implemented:
 
-- [JavaScript](./solution.js)
+- JavaScript
+  - [Solution](./solution.js)
+  - [Test file](./checkSolution.test.js)
+  - [CodeSandbox](https://codesandbox.io/s/y3r1m4q83z?autoresize=1&fontsize=14&hidenavigation=1&previewwindow=tests)
 - [Python](solution.py)
 - [Java](solution.java)

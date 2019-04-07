@@ -12,7 +12,9 @@ I've written an implementation that determines the solution in `O(max(n + m))` t
 
 Languages Implemented:
 
-- [JavaScript](./solution.js)
+- JavaScript
+  - [Solution](./solution.js)
   - [JS Test File](./testJSsolution.js)
+  - [CodeSandbox](https://codesandbox.io/s/oonl5y910y?autoresize=1&fontsize=14&module=%2Fsolution.js&previewwindow=tests)
 - [Python](./solution.py)
 - [Java](./solution.java)
