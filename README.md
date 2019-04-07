@@ -44,6 +44,8 @@ The following problems are introduced in the [Interview Cake full course](https:
 
 - [8. Balanced Binary Tree](./8-Balanced-Binary-Tree/README.md)
 
+- [14. Inflight Entertainment](./14-Inflight-Entertainment/README.md)
+
 - [16. The Cake Thief](./16-The-Cake-Thief/README.md)
 
   A variation of the "Unbounded Knapsack Problem."
