@@ -76,7 +76,7 @@ export function isNAway(str1, str2, maxDiff) {
 
   if (str1.length > str2.length) {
     // This may be a deletion operation
-    return isNDeletionsAway(str1, str2);
+    return isNDeletionsAway(str1, str2, maxDiff);
   } else if (str1.length < str2.length) {
     // This may be an addition operation
     return isNDeletionsAway(str2, str1, maxDiff);
