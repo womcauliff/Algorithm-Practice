@@ -34,6 +34,8 @@ The following problems are introduced in the Udemy course by CS Dojo, ["11 Essen
 
 10. [Is This a Binary Search Tree?](./Is-This-a-Binary-Search-Tree/README.md)
 
+11. [Lowest Common Ancestor](./Lowest-Common-Ancestor/README.md)
+
 ## Interview Cake
 
 The following problems are introduced in the [Interview Cake full course](https://www.interviewcake.com/) by Cake Labs.
