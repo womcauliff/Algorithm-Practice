@@ -54,6 +54,8 @@ The following problems are introduced in the [Interview Cake full course](https:
 
 - [27. Reverse Words](./27-Reverse-Words/README.md)
 
+- [30. Permutation Palindrome](./30-Permutation-Palindrome/README.md)
+
 - [36. Single Riffle Shuffle](./36-Single-Riffle-Shuffle/README.md)
 
 - [43. Merge Sorted Arrays](./43-Merge-Sorted-Arrays/README.md)
