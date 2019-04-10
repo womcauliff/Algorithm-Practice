@@ -9,8 +9,8 @@ function hasPalindromePermutation(theString) {
   // ONLY one character may appear an odd number of times (placed as the middle
   // character in palindrome)
 
-  // Sweep through the input string, and use a Map to track the characters that
-  // appear an odd number of times (as a space consideration, we use the Map to
+  // Sweep through the input string, and use a Set to track the characters that
+  // appear an odd number of times (as a space consideration, we use the Set to
   // track existence of odd-numbered characters, rather than track the actual
   // character frequency values themselves).
   const oddFreqChars = new Set();
