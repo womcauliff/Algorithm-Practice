@@ -56,6 +56,10 @@ The following problems are introduced in the [Interview Cake full course](https:
 
 - [30. Permutation Palindrome](./30-Permutation-Palindrome/README.md)
 
+- [32. Top Scores](./32-Top-Scores/README.md)
+
+- [34. Word Cloud Data](./34-Word-Cloud-Data/README.md)
+
 - [36. Single Riffle Shuffle](./36-Single-Riffle-Shuffle/README.md)
 
 - [43. Merge Sorted Arrays](./43-Merge-Sorted-Arrays/README.md)
