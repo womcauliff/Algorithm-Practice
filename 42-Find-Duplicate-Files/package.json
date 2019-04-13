@@ -1,0 +1,14 @@
+{
+  "name": "42-find-duplicate-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "findDuplicateFiles.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}

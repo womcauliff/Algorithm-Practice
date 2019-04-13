@@ -62,4 +62,6 @@ The following problems are introduced in the [Interview Cake full course](https:
 
 - [36. Single Riffle Shuffle](./36-Single-Riffle-Shuffle/README.md)
 
+- [42. Find Duplicate Files](./42-Find-Duplicate-Files/README.md)
+
 - [43. Merge Sorted Arrays](./43-Merge-Sorted-Arrays/README.md)
