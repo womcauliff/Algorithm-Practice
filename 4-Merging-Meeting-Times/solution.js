@@ -1,7 +1,14 @@
 /**
+ * The meeting object in the calendar system.
+ * @typedef {Object} Meeting
+ * @property {Number} startTime
+ * @property {Number} endTime
+ */
+
+/**
  * Merges all meetings that overlap into a single timeslot.
- * @param {{startTime: Number, endTime: Number}[]} meetings An array of meeting objects with no guaranteed order.
- * @return {{startTime: Number, endTime: Number}[]} Returns the array of meeting objects so that overlapping meetings are merged.
+ * @param {Meeting[]} meetings An array of Meeting objects with no guaranteed order.
+ * @return {Meeting[]} Returns the array of Meeting objects so that overlapping meetings are merged.
  */
 function mergeRanges(meetings) {
   // Sort the meetings by their start times.
