@@ -4,20 +4,20 @@ class WordCloudData {
     this.populateWordsToCounts(inputString);
   }
 
+  /**
+   * Count the frequency of each word
+   */
   populateWordsToCounts(inputString) {
-    // Count the frequency of each word
     // Divide up sentence into words
-    // Make each word lowercase
-    // hyphenated words are considered one word
-    // apostrophes should be considered just as a character within a word
+    // make each word lowercase
 
-    // a word starter
-    let word = "";
-    for (let char of inputString) {
-      char = char.toLowerCase();
+    let wordStartIndex = 0;
+    let wordEndIndex = 0;
+    for (let i = 0; i < inputString.length; i++) {
+      const char = inputString.charAt(i).toLowerCase();
 
       switch (char) {
-        // word breaking characters
+        // word-breaking characters
         case " ":
         case ".":
         case ",":
@@ -26,25 +26,39 @@ class WordCloudData {
         case "!":
         case "(":
         case ")":
-          if (word.length > 0) {
+        case "\u2014":
+          // If this character has broken a word, update Map
+          if (wordEndIndex - wordStartIndex > 0) {
+            const word = inputString
+              .slice(wordStartIndex, wordEndIndex)
+              .toLowerCase();
             this.wordsToCounts.set(word, this.wordsToCounts.get(word) + 1 || 1);
-            word = "";
           }
+          // Start word pointers after this non-letter character
+          wordStartIndex = i + 1;
+          wordEndIndex = i + 1;
           break;
-        case "-":
-          // Ignore dashes, but allow hyphens to fall through
-          if (word.length === 0) {
+        case "-": {
+          // Hyphen characters are considered part of a word.
+          // Dash characters within sentence are not considered words.
+          if (wordEndIndex - wordStartIndex === 0) {
+            // Break for dashes.
             break;
           }
-        // valid characters for a word
+          // Fall-through for hyphens.
+        }
+
+        // All other characters are valid for a word
         default:
-          word += char;
+          wordEndIndex += 1;
       }
     }
     // Sentence may have ended with a word
-    if (word.length > 0) {
+    if (wordEndIndex - wordStartIndex > 0) {
+      const word = inputString
+        .slice(wordStartIndex, wordEndIndex)
+        .toLowerCase();
       this.wordsToCounts.set(word, this.wordsToCounts.get(word) + 1 || 1);
-      word = "";
     }
   }
 }
