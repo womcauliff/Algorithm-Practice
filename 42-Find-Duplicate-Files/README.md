@@ -17,3 +17,4 @@ My solution returns a result in the worst-case in `O(n)` time and `O(n)` space, 
 
 - Node.js
   - [Solution](./findDuplicateFiles.js)
+  - [Test File](./findDuplicateFiles.test.js)
