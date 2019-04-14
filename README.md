@@ -42,6 +42,8 @@ The following problems are introduced in the [Interview Cake full course](https:
 
 - [1. Apple Stocks](./1-Apple-Stocks/README.md)
 
+- [3. Highest Product of Three](./3-Highest-Product-of-Three/README.md)
+
 - [4. Merging Meeting Times](./4-Merging-Meeting-Times/README.md)
 
 - [8. Balanced Binary Tree](./8-Balanced-Binary-Tree/README.md)
