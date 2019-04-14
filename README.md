@@ -40,6 +40,8 @@ The following problems are introduced in the Udemy course by CS Dojo, ["11 Essen
 
 The following problems are introduced in the [Interview Cake full course](https://www.interviewcake.com/) by Cake Labs.
 
+- [1. Apple Stocks](./1-Apple-Stocks/README.md)
+
 - [4. Merging Meeting Times](./4-Merging-Meeting-Times/README.md)
 
 - [8. Balanced Binary Tree](./8-Balanced-Binary-Tree/README.md)
