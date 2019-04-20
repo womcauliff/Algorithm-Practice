@@ -6,9 +6,7 @@
 
 ## Implementation
 
-My solution finds the missing integer under the time complexity of `O(n)`, where `n` is the number of elements in the source array. The solution generates the result with a datastructure of constant space complexity `O(1)`.
-
-My solution does not yet account for duplicate integers.
+My solution finds the missing integer under the time complexity of `O(n)`, where `n` is the number of elements in the source array. The solution generates the result by modifying source array in-place, achieving constant space complexity `O(1)`.
 
 - JavaScript
   - [Solution](./findMissingInteger.js)
