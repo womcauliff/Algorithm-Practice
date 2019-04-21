@@ -7,3 +7,4 @@ Practice problems that challenge me to think carefully about algorithms and data
 - [11 Essential Coding Interview Questions](./11-Essential-Coding-Interview-Questions/README.md)
 - [Interview Cake](./Interview-Cake/README.md)
 - [Daily Coding Problem](./Daily-Coding-Problem/README.md)
+- [Byte by Byte](./Byte-by-Byte/README.md)
