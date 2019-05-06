@@ -4,6 +4,8 @@ Solutions to problems received from [dailycodingproblem.com](https://www.dailyco
 
 - [2. Product of All Others](./2-Product-of-All-Others/README.md)
 
+- [3. Serialize Tree](./3-Serialize-Tree/README.md)
+
 - [4. Find First Missing Integer](./4-Find-First-Missing-Integer/README.md)
 
 - [8. Count Unival Subtrees](./8-Count-Unival-Subtrees/README.md)
