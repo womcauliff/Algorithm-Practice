@@ -10,6 +10,8 @@ The following problems are introduced in the [Interview Cake full course](https:
 
 - [8. Balanced Binary Tree](./8-Balanced-Binary-Tree/README.md)
 
+- [13. Find Rotation Point](./13-Find-Rotation-Point/README.md)
+
 - [14. Inflight Entertainment](./14-Inflight-Entertainment/README.md)
 
 - [16. The Cake Thief](./16-The-Cake-Thief/README.md)
