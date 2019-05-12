@@ -26,6 +26,8 @@ The following problems are introduced in the [Interview Cake full course](https:
 
 - [34. Word Cloud Data](./34-Word-Cloud-Data/README.md)
 
+- [35. In-Place Shuffle](./35-In-Place-Shuffle/README.md)
+
 - [36. Single Riffle Shuffle](./36-Single-Riffle-Shuffle/README.md)
 
 - [42. Find Duplicate Files](./42-Find-Duplicate-Files/README.md)
