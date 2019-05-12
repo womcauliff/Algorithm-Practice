@@ -29,4 +29,4 @@ Because the input array is a _rotation_ of an alphabetically sorted array, my so
 - JavaScript
   - [Solution](./findRotationPoint.js)
   - [Jest Tests](./findRotationPoint.test.js)
-  - [CodeSandbox]()
+  - [CodeSandbox](https://codesandbox.io/s/18z62l6kq4?autoresize=1&fontsize=14&module=%2FfindRotationPoint.js&previewwindow=tests)
